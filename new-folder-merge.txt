@@ -1,0 +1,5 @@
+The new folder merge file - what's the default file type, txt? 
+
+Additional txt - from commit $4
+
+giving this file a file type - .txt extension
